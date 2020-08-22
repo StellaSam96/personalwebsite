@@ -1,0 +1,167 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    color: #66bfbf;
+} 
+
+h2{
+    font-family: 'montserrat', sans-serif;
+    font-size: 1.9rem;
+    color: #66bfbf;
+    font-weight: normal;
+}
+
+h3{
+    font-family: 'montserrat', sans-serif;
+    color: #66bfbf;
+}
+
+p{
+    letter-spacing: 1px;
+    line-height: 25px;
+}
+
+a{
+    color: #66bfbf;
+    text-decoration: none;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+}
+
+hr{
+    border: none;
+    border-top: 3px dotted #66bfbf;
+    background-color:#ddf3f5; 
+    height: 1px;
+    width:30%;
+    margin-top: 30px; 
+}
+
+.hr2{
+    position: relative;
+}
+
+.skill-row{
+    width: 30%;
+    margin: 50px auto 50px auto;
+}
+
+.sr1{
+    text-align: right;
+}
+
+.sr2 {
+    text-align: left;
+}
+
+.profile{
+    width: 30%;
+    margin: 0 auto 0 auto;
+}
+
+
+.top-container{
+    background-color: #beebe9;
+    padding-top: 20px;
+    padding-bottom: 70px;
+}
+
+.middle-container{
+    background-color: whitesmoke;
+    padding-bottom: 80px;
+    margin: auto auto -45px auto;
+
+}
+
+.bottom-container{
+    background-color: #beebe9;
+    height: 120px;
+}
+
+.btn{
+    position: relative;
+    top: 20px;
+}
+
+.footer-link1{
+    position: absolute;
+    left: 580px;
+}
+
+.footer-link3{
+    position: absolute;
+    right: 580px;
+}
+
+.mountain{
+    position: relative;
+    top: 74px;
+}
+
+.bottom-cloud{
+   position: absolute;
+   bottom: 270px;
+   left: 200px;
+}
+
+.top-cloud{
+    position: absolute;
+    top: 240px;
+    right: 260px;
+}
+
+.middle-container img{
+    max-width: 40%;
+    height: auto;
+    margin: 20px 100px 0px 100px;
+}
+
+.bottom-content{
+    position: relative;
+    top: 30px;
+}
+
+.btn{
+  background-color: rgb(192, 77, 177);
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.5;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.btn:hover {opacity: 1;}
+
+.giphy-embed1{
+    height: 150px;
+    float: left;
+    
+}
+
+.giphy-embed2{
+    height: 150%;
+    float: right;
+}
+
+.bottom-container a:hover{
+    color: lightblue;
+}
+
+.copy{
+    color: white;
+    font-size: 15px;
+    padding-top: 50px;
+}
